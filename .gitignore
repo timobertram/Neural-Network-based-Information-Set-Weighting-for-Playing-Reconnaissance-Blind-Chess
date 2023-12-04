@@ -1,0 +1,4 @@
+baselines/*
+__pycache__/*
+runs/*
+play_game.py
